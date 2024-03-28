@@ -24,7 +24,7 @@
 
 ## Links
 
-- [See live site here](https://tasty-react-sigma.vercel.app/)
+- [See live site here](https://tasty-recipe-react.onrender.com)
 - [GitHub Repository](https://github.com/thomaserdmenger/Tasty-React)
 - [GitHub Author](https://github.com/thomaserdmenger)
 - [LinkedIn Author](https://www.linkedin.com/in/thomaserdmenger/)
